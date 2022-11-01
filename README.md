@@ -5,7 +5,7 @@ This was originally written by oscarucb, but is unavailable on their Github: htt
 Original source can be found at https://repos.wowace.com/wow/paste/, and checked out with Subversion by using:  
 `svn checkout https://repos.wowace.com/wow/paste/trunk paste`
 
-All rights reserved to oscarub on his original work on the version of this plugin, which was updated until 2016.
+All rights reserved to oscarucb on his original work on the version of this plugin, which was updated until 2016.
 
 While every effort will be made by me to keep this addon operational in Dragonflight and beyond, I am not a LUA coder so pull requests are welcome. By offering a pull request to this repository, you are waiving your rights to remove the code at a future date and you renounce all claims of owning the code provided. This notice is because the original files provided by oscarucb are not licensed and I will not claim any of this code as my own.
 

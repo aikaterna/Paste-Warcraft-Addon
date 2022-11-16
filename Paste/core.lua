@@ -267,11 +267,7 @@ end
 
 function addon:Config()
   if optionsFrame then
-    if ( InterfaceOptionsFrame:IsShown() ) then
-      InterfaceOptionsFrame:Hide();
-    else
-      InterfaceOptionsFrame_OpenToCategory(optionsFrame)
-    end
+    InterfaceOptionsFrame_OpenToCategory(optionsFrame)
   end
 end
 

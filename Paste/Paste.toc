@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 100005
 ## Title: Paste
 ## Description: Enables multi-line/unlimited-length pasting of text or commands into WoW
 ## Notes: Enables multi-line/unlimited-length pasting of text or commands into WoW
